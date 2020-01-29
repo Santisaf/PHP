@@ -1,0 +1,9 @@
+--------------------------------------------------------
+Client's name: Santi
+Address: Pza. Llorençada n2 Manacor
+Prosciutto: 2 ud
+Napolitana: 1 ud
+Mozzarella: 3 ud
+--------------------------------------------------------
+Total: 32.00 €
+ 
